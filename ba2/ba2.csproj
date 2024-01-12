@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <PackageReference Include="GleamTech.VideoUltimate" Version="3.8.6" />
+    <PackageReference Include="Spectre.Console" Version="0.48.0" />
+    <PackageReference Include="Spectre.Console.ImageSharp" Version="0.48.0" />
     <PackageReference Include="System.Drawing.Common" Version="8.0.1" />
   </ItemGroup>
 
